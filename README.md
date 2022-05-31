@@ -1,6 +1,17 @@
-# minderbrain
+# MinderBrain
 
 A new Flutter project.
+
+
+Minder brain is an application that has for its main purpose the sole objective of helping outpatients suffering from Alzheimer's disease to try and slow down its progress by mimicking the memory flashbacks 
+
+
+
+![image](https://user-images.githubusercontent.com/66702453/171293323-0d89c033-8200-4d60-9033-9de883c0320d.png)                      ![image](https://user-images.githubusercontent.com/66702453/171293357-8bb7e453-6afa-4def-93cb-dfe0e29a76e3.png)    ![image](https://user-images.githubusercontent.com/66702453/171293398-436d59e7-a00d-4caa-a8cf-d7a98cfe8785.png)   
+
+
+
+
 
 ## Getting Started
 
